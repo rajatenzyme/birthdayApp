@@ -1,2 +1,2 @@
 # birthdayApp
-Simple Birthday App 
+Simple Birthday card Android App 
